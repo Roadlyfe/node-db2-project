@@ -4,22 +4,22 @@ const cars = [
         vin: '1111111111111',
         make: "toyota",
         model: 'hylux',
-        milage: 215000,
+        mileage: 215000,
         title: 'clean',
         transmission: 'manual'
     },
     {
-        vin: '1111111111111',
+        vin: '2222222222222',
         make: "toyota",
         model: 'prius',
-        milage: 2150,
+        mileage: 2150,
         title: 'clean',
     },
     {
-        vin: '1111111111111',
+        vin: '3333333333333',
         make: "subaru",
         model: 'outback',
-        milage: 21000,
+        mileage: 21000,
     },
 ]
 
