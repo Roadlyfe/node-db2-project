@@ -42,7 +42,7 @@ const checkVinNumberValid = (req, res, next) => {
  } else {
     next({ 
       status: 400, 
-      messsage: `vin ${req.body.vin} is invalid`, 
+      message: `vin ${req.body.vin} is invalid` , 
     })
  }
 }
